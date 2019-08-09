@@ -1,2 +1,3 @@
-# My_Kaggle
-记录我的Kaggle之旅
+# The learning Path of mine in Kaggle
+
+### 2019/8/9 first time attempt on Titanic dataset
